@@ -44,7 +44,7 @@ public class Main extends JFrame{
 				window2.setVisible(false);
 				window3.setVisible(true);
 			}
-		}, 2000);
+		}, 30000);
 		//newSession();
 		
 	}
